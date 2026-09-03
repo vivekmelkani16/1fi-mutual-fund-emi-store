@@ -8,7 +8,7 @@ A production-ready, full-stack web application for **1Fi** that displays smartph
 
 ## 🌐 Live Demo & Deliverables
 
-- **Live Deployed Demo**: [https://1fi-emi-store.vercel.app](https://1fi-emi-store.vercel.app) *(Replace with actual deployed Vercel/Render URL)*
+- **Live Deployed Demo**: [https://1fi-emi-store.vercel.app](https://1fi-emi-store.vercel.app) 
 - **Video Showcase Demo**: *(Link to 2-5 min Google Drive / YouTube video walkthrough)*
 - **GitHub Repository**: [https://github.com/your-username/1fi-emi-store](https://github.com/your-username/1fi-emi-store)
 
