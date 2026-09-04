@@ -9,7 +9,7 @@ A production-ready, full-stack web application for **1Fi** that displays smartph
 ## 🌐 Live Demo & Deliverables
 
 - **Live Deployed Demo**: https://onefi-mutual-fund-emi-store.onrender.com
-- **Video Showcase Demo**: *(Link to 2-5 min Google Drive / YouTube video walkthrough)*
+- **Video Showcase Demo**: https://drive.google.com/file/d/1VuK-hB-OgX9ljWfSTGG6mn7pI7KIRZhR/view?usp=sharing
 - **GitHub Repository**: [https://github.com/your-username/1fi-emi-store](https://github.com/your-username/1fi-emi-store)
 
 ---
